@@ -3909,3 +3909,280 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.09-14.28.07:070][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
 [2026.02.09-14.28.07:079][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2026.02.09-14.28.07:144][  3]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.02.09-14.28.21:669][177]LogDerivedDataCache: C:/Users/lj2-schaaf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.09-14.30.12:874][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Inventory.BP_Inventory
+[2026.02.09-14.30.12:875][907]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.09-14.30.37:833][548]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.09-14.30.37:833][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.09-14.30.37:945][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.09-14.30.40:702][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Inventory.BP_Inventory
+[2026.02.09-14.30.40:702][732]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.09-14.30.48:387][218]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.02.09-14.30.48:387][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.09-14.30.48:410][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Inventory.BP_Inventory
+[2026.02.09-14.30.48:410][218]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.09-14.30.48:803][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.09-14.31.34:870][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3315.785889
+[2026.02.09-14.31.35:045][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-14.31.35:045][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3315.946045, Update Interval: 321.733459
+[2026.02.09-14.32.00:845][176]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_Menu.WB_Menu
+[2026.02.09-14.32.00:845][176]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.09-14.32.00:863][176]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.09-14.32.55:461][  2]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.09-14.32.55:478][  2]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.09-14.32.55:489][  2]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.09-14.32.55:505][  3]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.09-14.33.06:223][769]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item
+[2026.02.09-14.33.06:230][769]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.09-14.33.08:655][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Item.BP_Item_C
+[2026.02.09-14.33.08:655][925]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Item.BP_Item_C
+[2026.02.09-14.33.08:656][925]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_0
+[2026.02.09-14.33.08:657][925]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_0
+[2026.02.09-14.33.09:387][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.09-14.33.09:390][982]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2026.02.09-14.33.09:404][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Item.BP_Item_C
+[2026.02.09-14.33.09:404][982]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Item.BP_Item_C
+[2026.02.09-14.33.09:408][982]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_UAID_50814029CEDC71BD02_1117552967
+[2026.02.09-14.33.09:409][982]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_UAID_50814029CEDC71BD02_1117552967
+[2026.02.09-14.33.20:200][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Item.BP_Item
+[2026.02.09-14.33.20:200][707]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.09-14.33.26:293][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: ================================================
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Total job queries 11,662, among them cache hits 9 (0.08%), DDC hits 0 (0.00%), Duplicates 2,682 (23.00%)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Tracking 8,971 distinct input hashes that result in 8,478 distinct outputs (94.50%)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: RAM used: 6.36 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Shaders Compiled: 8,971
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Jobs assigned 8,971, completed 8,971 (100%)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Average time worker was idle: 21.53 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Time job spent in pending queue: average 275.46 s, longest 584.13 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Job execution time: average 5.37 s, max 89.10 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Job life time (pending + execution): average 280.84 s, max 584.68
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Shader code size: average 14.29 KiB, min 1.16 KiB, max 330.166 KiB
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 633.55 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.64%
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Jobs were issued in 998 batches (only local compilation was used), average 8.99 jobs/batch
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Average processing rate: 14.16 jobs/sec
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Total thread time: 4,880.284 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Total thread preprocess time: 132.388 s
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Percentage time preprocessing: 2.71%
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Effective parallelization: 7.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 20.33 sec, max 64.92 sec, min 1.28 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 13.88 sec, max 13.88 sec, min 13.88 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.91 sec, max 8.69 sec, min 5.13 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 5.29 sec, max 5.29 sec, min 5.29 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 4.88 sec, max 4.88 sec, min 4.88 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.36% of total time (compiled  454 times, average 1.33 sec, max 2.57 sec, min 0.94 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.25% of total time (compiled   27 times, average 20.33 sec, max 64.92 sec, min 1.28 sec)
+[2026.02.09-14.34.05:184][578]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.00% of total time (compiled  260 times, average 1.88 sec, max 4.57 sec, min 0.00 sec)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.67% of total time (compiled  480 times, average 0.58 sec, max 0.95 sec, min 0.25 sec)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.93% of total time (compiled   72 times, average 2.66 sec, max 3.81 sec, min 1.78 sec)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: === Material stats ===
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Materials Translated:    135
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Material Translation Only: 0.05 s (33%)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.09-14.34.05:185][578]LogShaderCompilers: Display: ================================================
+[2026.02.09-14.35.06:253][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.09-14.35.06:332][403]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Item] ([2] browsable assets)...
+[2026.02.09-14.35.06:341][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Item.BP_Item]
+[2026.02.09-14.35.06:341][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Item]
+[2026.02.09-14.35.06:341][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Item" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_Item.uasset" SILENT=true
+[2026.02.09-14.35.06:345][403]LogSavePackage: Moving output files for package: /Game/BP_Item
+[2026.02.09-14.35.06:345][403]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_Item93ABE28340791FEED91B1297B62D18B4.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_Item.uasset'
+[2026.02.09-14.35.06:359][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.859 ms (total: 209.745 ms)
+[2026.02.09-14.35.06:412][403]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.09-14.35.06:412][403]LogContentValidation: Enabled validators:
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.09-14.35.06:412][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.09-14.35.06:413][403]AssetCheck: /Game/BP_Item Validating asset
+[2026.02.09-14.35.09:930][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.09-14.35.13:160][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.09-14.35.13:166][793]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.09-14.35.13:166][793]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.02.09-14.35.13:168][793]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.543 ms (total: 63.098 ms)
+[2026.02.09-14.35.13:168][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.09-14.35.13:169][793]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.09-14.35.13:172][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2026.02.09-14.35.13:172][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003071s)
+[2026.02.09-14.35.13:194][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.09-14.35.13:197][793]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.02.09-14.35.13:199][793]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.09-14.35.13:199][793]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.09-14.35.13:199][793]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.09-14.35.13:199][793]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.09-14.35.13:200][793]LogWorldPartition: Display: WorldPartition initialize took 1.235 ms (total: 110.626 ms)
+[2026.02.09-14.35.13:200][793]LogPlayLevel: PIE: World Init took: (0.002930s)
+[2026.02.09-14.35.13:200][793]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.02.09-14.35.13:200][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.09-14.35.13:200][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.09-14.35.13:200][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.09-14.35.13:200][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.09-14.35.13:200][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.09-14.35.13:202][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.09-14.35.13:202][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.09-14.35.13:202][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.09-14.35.13:202][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.09-14.35.13:202][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.09-14.35.13:202][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.09-14.35.13:204][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.09-14.35.13:237][793]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.09-14.35.13:238][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.09-14.35.13:238][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.09-14.35.13:238][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.09-14.35.13:238][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.02.09-14.35.13:238][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.02.09-14.35.13:241][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.02.09-14.35.13:241][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.02.09-14.35.13:241][793]LogInit: FAudioDevice initialized with ID 27.
+[2026.02.09-14.35.13:241][793]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2026.02.09-14.35.13:241][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.09-14.35.13:245][793]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.09-14.35.13:247][793]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.02.09-14.35.13
+[2026.02.09-14.35.13:247][793]LogWorld: Bringing up level for play took: 0.001544
+[2026.02.09-14.35.13:250][793]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.02.09-14.35.13:254][793]PIE: Server logged in
+[2026.02.09-14.35.13:255][793]PIE: Play in editor total start time 0.09 seconds.
+[2026.02.09-14.35.16:517][ 34]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.16:517][ 34]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.09-14.35.16:517][ 34]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.09-14.35.16:964][ 41]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.09-14.35.16:964][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.09-14.35.17:425][ 43]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.075761 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2026.02.09-14.35.19:532][208]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.19:532][208]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.09-14.35.19:965][242]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.09-14.35.19:965][242]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.09-14.35.20:873][315]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.20:873][315]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.09-14.35.21:806][389]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.09-14.35.21:806][389]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.09-14.35.23:130][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.23:130][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.09-14.35.23:724][541]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.09-14.35.23:724][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.09-14.35.29:340][994]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.29:340][994]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.09-14.35.31:617][182]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.09-14.35.31:617][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.09-14.35.56:943][214]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.09-14.35.56:943][214]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.09-14.35.58:873][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.09-14.35.58:873][368]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.09-14.35.58:874][368]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.09-14.35.58:875][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.09-14.35.58:875][368]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.02.09-14.35.58:879][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.09-14.35.58:885][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.09-14.35.58:908][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.09-14.35.58:909][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.09-14.35.58:909][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.02.09-14.35.58:911][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2026.02.09-14.35.58:918][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.09-14.35.58:976][369]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.02.09-14.36.46:360][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.09-14.36.46:368][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D6/2MOXFKCXX26KTHNCGF8OX6_Auto4
+[2026.02.09-14.36.46:368][644]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/2MOXFKCXX26KTHNCGF8OX6_Auto4EC43932B47FD390F283694AB9F55AFC4.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D6/2MOXFKCXX26KTHNCGF8OX6_Auto4.uasset'
+[2026.02.09-14.36.46:372][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2026.02.09-14.36.46:372][644]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2026.02.09-14.36.46:372][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.09-14.36.46:485][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.09-14.36.46:485][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.09-14.36.46:501][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2026.02.09-14.36.46:501][644]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto4B00BBD6949DFF0EE27D66E8314E8C595.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2026.02.09-14.36.46:502][644]LogFileHelpers: Auto-saving content packages took 0.131
+[2026.02.09-14.37.49:954][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3690.853027
+[2026.02.09-14.37.50:956][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-14.37.50:956][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3691.520020, Update Interval: 350.258484
+[2026.02.09-14.44.26:479][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.02.09-14.44.35:278][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4096.169434
+[2026.02.09-14.44.35:431][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-14.44.35:431][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4096.312988, Update Interval: 311.693481
+[2026.02.09-14.44.42:160][832]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.09-14.44.47:575][316]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2026.02.09-14.44.47:588][316]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2026.02.09-14.44.47:606][317]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2026.02.09-14.44.55:637][989]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> St_ItemData
+[2026.02.09-14.44.55:689][989]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2026.02.09-14.44.58:693][195]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/St_ItemData.St_ItemData
+[2026.02.09-14.47.08:909][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.09-14.47.08:915][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D6/2MOXFKCXX26KTHNCGF8OX6_Auto5
+[2026.02.09-14.47.08:915][773]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/2MOXFKCXX26KTHNCGF8OX6_Auto5D759CB3A4D5CFDA0E196B79A1BB7C264.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D6/2MOXFKCXX26KTHNCGF8OX6_Auto5.uasset'
+[2026.02.09-14.47.08:918][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.076
+[2026.02.09-14.47.08:918][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2026.02.09-14.47.08:918][773]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Item] ([2] browsable assets)...
+[2026.02.09-14.47.08:964][773]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Item.BP_Item]
+[2026.02.09-14.47.08:964][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Item]
+[2026.02.09-14.47.08:964][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Item" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Item_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.47.08:969][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Item_Auto5
+[2026.02.09-14.47.08:969][773]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_Item_Auto527740DB344A91C2F1A62C099FA8FA341.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Item_Auto5.uasset'
+[2026.02.09-14.47.08:970][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/St_ItemData] ([1] browsable assets)...
+[2026.02.09-14.47.08:970][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/St_ItemData]
+[2026.02.09-14.47.08:970][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/St_ItemData" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/St_ItemData_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.47.08:971][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/St_ItemData_Auto5
+[2026.02.09-14.47.08:971][773]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/St_ItemData_Auto5EDE08F554FE69D81CA0FFC826B1B78BE.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/St_ItemData_Auto5.uasset'
+[2026.02.09-14.47.08:972][773]LogFileHelpers: Auto-saving content packages took 0.055
+[2026.02.09-14.50.34:310][114]LogSlate: Window 'Pick Row Structure' being destroyed
+[2026.02.09-14.50.34:320][114]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2026.02.09-14.50.34:333][114]LogContentBrowser: Creating deferred item: NewDataTable
+[2026.02.09-14.50.34:351][115]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2026.02.09-14.50.45:911][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4466.786133
+[2026.02.09-14.50.46:057][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-14.50.46:057][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4466.916992, Update Interval: 314.720306
+[2026.02.09-14.50.47:320][ 52]LogContentBrowser: Attempting asset rename: NewDataTable -> DT_ItemDataTable
+[2026.02.09-14.50.47:322][ 52]LogContentBrowser: End creating deferred item NewDataTable
+[2026.02.09-14.50.48:724][149]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_ItemDataTable.DT_ItemDataTable
+[2026.02.09-14.56.54:634][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4835.514648
+[2026.02.09-14.56.54:782][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-14.56.54:783][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4835.651855, Update Interval: 328.893097
+[2026.02.09-14.58.08:528][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.09-14.58.08:530][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.071
+[2026.02.09-14.58.08:532][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Inventory] ([2] browsable assets)...
+[2026.02.09-14.58.08:532][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Inventory]
+[2026.02.09-14.58.08:532][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Inventory" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Inventory_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.58.08:536][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Inventory_Auto6
+[2026.02.09-14.58.08:536][536]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_Inventory_Auto6792D78AD4F6A7A47A2CEB28AFB90DEC5.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Inventory_Auto6.uasset'
+[2026.02.09-14.58.08:538][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Item] ([2] browsable assets)...
+[2026.02.09-14.58.08:538][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Item]
+[2026.02.09-14.58.08:538][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Item" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Item_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.58.08:543][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Item_Auto6
+[2026.02.09-14.58.08:543][536]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_Item_Auto67FA53EDC4E81A23254364798A6FB6D32.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/BP_Item_Auto6.uasset'
+[2026.02.09-14.58.08:544][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/St_ItemData] ([1] browsable assets)...
+[2026.02.09-14.58.08:544][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/St_ItemData]
+[2026.02.09-14.58.08:544][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/St_ItemData" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/St_ItemData_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.58.08:547][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/St_ItemData_Auto6
+[2026.02.09-14.58.08:547][536]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/St_ItemData_Auto6A01407C84B03F540C8ECADB0C712DB73.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/St_ItemData_Auto6.uasset'
+[2026.02.09-14.58.08:549][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DT_ItemDataTable] ([1] browsable assets)...
+[2026.02.09-14.58.08:549][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/DT_ItemDataTable]
+[2026.02.09-14.58.08:549][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DT_ItemDataTable" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/DT_ItemDataTable_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-14.58.08:550][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DT_ItemDataTable_Auto6
+[2026.02.09-14.58.08:550][536]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/DT_ItemDataTable_Auto6609FCC90447D2B83A1F6FEB00AE5B23E.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/DT_ItemDataTable_Auto6.uasset'
+[2026.02.09-14.58.08:552][536]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.02.09-14.59.26:110][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.09-15.01.03:899][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.09-15.03.19:421][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5220.302246
+[2026.02.09-15.03.19:587][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-15.03.19:587][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5220.452637, Update Interval: 304.497192
+[2026.02.09-15.08.08:954][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.09-15.08.08:959][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2026.02.09-15.08.08:960][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.09-15.08.09:007][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.09-15.08.09:007][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.09-15.08.09:032][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.02.09-15.08.09:032][ 49]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto7936D42CF4374EE0B2E3C058635F35548.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.02.09-15.08.09:035][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Menu] ([2] browsable assets)...
+[2026.02.09-15.08.09:038][ 49]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Menu.WB_Menu]
+[2026.02.09-15.08.09:038][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Menu]
+[2026.02.09-15.08.09:038][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Menu" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_Menu_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.02.09-15.08.09:044][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_Menu_Auto7
+[2026.02.09-15.08.09:044][ 49]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/WB_Menu_Auto708A126ED43F0E58996F49F8C14F4209B.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_Menu_Auto7.uasset'
+[2026.02.09-15.08.09:046][ 49]LogFileHelpers: Auto-saving content packages took 0.087
