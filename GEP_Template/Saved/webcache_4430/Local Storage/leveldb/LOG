@@ -1,2 +1,9 @@
-2026/02/21-13:12:22.240 2fb98 Creating DB D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/02/21-13:12:22.256 2fb98 Reusing MANIFEST D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/21-13:35:31.977 4d83c Reusing MANIFEST D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/21-13:35:31.980 4d83c Recovering log #3
+2026/02/21-13:35:31.985 4d83c Reusing old log D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/02/21-13:36:34.303 484d0 Level-0 table #5: started
+2026/02/21-13:36:34.308 484d0 Level-0 table #5: 62346 bytes OK
+2026/02/21-13:36:34.311 484d0 Delete type=0 #3
+2026/02/21-13:43:34.301 3931c Level-0 table #7: started
+2026/02/21-13:43:34.307 3931c Level-0 table #7: 69691 bytes OK
+2026/02/21-13:43:34.309 3931c Delete type=0 #4
