@@ -9779,3 +9779,749 @@ Make sure 'BP_InventoryComponent_C' has been compiled for  Call OnChestInventory
 [2026.03.09-14.34.13:839][268]AssetCheck: /Game/BP_InventoryComponent Validating asset
 [2026.03.09-14.34.13:840][268]AssetCheck: /Game/WB_Menu Validating asset
 [2026.03.09-14.34.13:840][268]AssetCheck: /Game/WB_InventorySlot Validating asset
+[2026.03.09-14.37.57:095][271]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10864.930664
+[2026.03.09-14.37.58:097][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.37.58:097][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10865.597656, Update Interval: 314.088562
+[2026.03.09-14.38.37:554][393]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-14.43.43:812][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11211.553711
+[2026.03.09-14.43.44:812][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.43.44:812][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11212.219727, Update Interval: 316.086304
+[2026.03.09-14.49.48:527][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11576.180664
+[2026.03.09-14.49.49:529][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.49.49:529][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11576.847656, Update Interval: 352.681061
+[2026.03.09-14.56.20:249][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11967.797852
+[2026.03.09-14.56.21:249][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.56.21:249][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11968.464844, Update Interval: 320.019531
+[2026.03.09-15.02.24:623][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12332.066406
+[2026.03.09-15.02.25:623][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.02.25:623][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12332.733398, Update Interval: 343.113495
+[2026.03.09-15.02.58:592][775]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.03.09-15.02.58:626][775]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.02.58:626][775]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-15.02.58:959][776]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.02.58:961][776]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9e64758e-5825-42f3-b6d1-9f74ea013003}, Name=Speakers (Corsair HS80 RGB USB Gaming Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=32.36
+[2026.03.09-15.02.58:961][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-15.02.58:964][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-15.38.52:287][786]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2151 Seconds] waiting for h/w. InstanceID=1
+[2026.03.09-15.38.53:714][786]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.09-15.38.53:714][786]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 2c5...ef8
+[2026.03.09-15.38.53:714][787]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -212 RefreshExpires: 1.554e+07
+[2026.03.09-15.38.53:732][788]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.38.53:732][788]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-15.38.54:050][788]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.38.54:053][788]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9e64758e-5825-42f3-b6d1-9f74ea013003}, Name=Speakers (Corsair HS80 RGB USB Gaming Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=216.71
+[2026.03.09-15.38.54:054][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-15.38.54:080][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-15.38.54:385][789]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2c5...ef8 Access[Expires: 2026.03.09-17.38.53 Remaining: 7200.93] Refresh[Expires: 2026-09-05T11:36:59.791Z Remaining: 15537486.79] State: Valid
+[2026.03.09-15.38.55:617][790]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61816'.
+[2026.03.09-15.38.55:621][790]LogUdpMessaging: Display: Added local interface '10.23.72.82' to multicast group '230.0.0.1:6666'
+[2026.03.09-15.39.51:967][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14579.565430
+[2026.03.09-15.39.52:968][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.39.52:968][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14580.232422, Update Interval: 335.633423
+[2026.03.09-15.46.27:687][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14975.189453
+[2026.03.09-15.46.28:687][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.46.28:687][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14975.856445, Update Interval: 311.528687
+[2026.03.09-15.52.27:738][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15335.149414
+[2026.03.09-15.52.28:739][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.52.28:739][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15335.816406, Update Interval: 300.824005
+[2026.03.09-15.55.29:018][771]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - 27G4 (2- AMD High Definition Audio Device), InstanceID=1
+[2026.03.09-15.55.29:113][771]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.55.29:114][771]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-15.55.29:447][772]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-15.55.29:448][772]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ca4a11cc-6aac-4c7e-bd11-e4527767e827}, Name=1 - 27G4 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.45
+[2026.03.09-15.55.29:448][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-15.55.29:450][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-15.58.26:157][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15693.484375
+[2026.03.09-15.58.27:157][305]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.58.27:157][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15694.150391, Update Interval: 313.390900
+[2026.03.09-16.04.15:207][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16042.458008
+[2026.03.09-16.04.16:208][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-16.04.16:208][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16043.125977, Update Interval: 321.103546
+[2026.03.09-16.10.31:911][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16419.111328
+[2026.03.09-16.10.32:911][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-16.10.32:911][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16419.777344, Update Interval: 353.624084
+[2026.03.09-16.13.40:232][ 44]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-16.13.40:269][ 44]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-16.13.40:269][ 44]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-19.36.34:502][ 64]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-12165817ms], ThreadID=8612
+[2026.03.09-19.36.34:502][ 64]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-19.36.35:413][ 64]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.09-19.36.36:394][ 64]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.36:910][ 64]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 2c5...ef8
+[2026.03.09-19.36.36:910][ 64]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -7063 RefreshExpires: 1.552e+07
+[2026.03.09-19.36.37:071][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:150][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:212][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:311][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:356][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:392][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-19.36.37:446][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - 27G4 (2- AMD High Definition Audio Device), InstanceID=1
+[2026.03.09-19.36.37:622][ 65]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64917'.
+[2026.03.09-19.36.37:626][ 65]LogUdpMessaging: Display: Added local interface '10.23.72.82' to multicast group '230.0.0.1:6666'
+[2026.03.09-19.36.37:981][ 67]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2c5...ef8 Access[Expires: 2026.03.09-21.36.37 Remaining: 7200.14] Refresh[Expires: 2026-09-05T11:36:59.791Z Remaining: 15523222.79] State: Valid
+[2026.03.09-19.36.38:314][ 68]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-19.36.38:315][ 68]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ca4a11cc-6aac-4c7e-bd11-e4527767e827}, Name=1 - 27G4 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8.11
+[2026.03.09-19.36.38:315][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-19.36.38:317][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-19.36.46:308][ 92]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Bose Flex 2 SoundLink), InstanceID=1
+[2026.03.09-19.36.46:317][ 92]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-19.36.46:317][ 92]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-19.36.46:648][ 93]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-19.36.46:651][ 93]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4bf4935-5139-4935-9fce-626f1828df05}, Name=Speakers (Bose Flex 2 SoundLink)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.12
+[2026.03.09-19.36.46:651][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-19.36.46:652][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-19.37.08:708][160]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-19.37.11:984][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28819.638672
+[2026.03.09-19.37.12:983][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-19.37.12:983][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28820.304688, Update Interval: 334.153870
+[2026.03.09-19.37.57:989][307]LogHttp: Warning: 0000054267038500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 0 (Found bundle for host: 0x5418b850f00 [serially])
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 6 (Closing connection)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAC7902DF-499B-5453-84E0-C488B3C33629%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=28939a5246b3d527413573acfce3f17c%7C2c5df604ed994e2cadd1adc780415ef8%7C29372a8a-1901-4903-a9fc-710ceae506ea&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 9 (  Trying 3.219.251.152:443...)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.219.251.152) port 443)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 12 (SSL reusing session ID)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 23 (Server certificate:)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 25 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 26 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 30 (using HTTP/1.1)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 32 (Closing connection)
+[2026.03.09-19.37.57:990][307]LogHttp: Warning: 0000054267038500: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.03.09-19.43.46:006][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29214.251953
+[2026.03.09-19.43.47:006][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-19.43.47:006][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29214.919922, Update Interval: 359.749146
+[2026.03.09-19.50.40:042][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29628.925781
+[2026.03.09-19.50.41:041][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-19.50.41:041][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29629.593750, Update Interval: 348.698395
+[2026.03.09-19.57.15:085][778]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30024.578125
+[2026.03.09-19.57.16:085][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-19.57.16:086][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30025.246094, Update Interval: 329.638367
+[2026.03.09-20.03.35:460][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30405.500000
+[2026.03.09-20.03.36:460][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.03.36:461][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30406.167969, Update Interval: 339.041107
+[2026.03.09-20.10.03:550][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30794.095703
+[2026.03.09-20.10.04:550][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.10.04:550][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30794.763672, Update Interval: 348.991364
+[2026.03.09-20.16.28:258][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31179.183594
+[2026.03.09-20.16.29:262][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.16.29:262][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31179.851562, Update Interval: 337.576233
+[2026.03.09-20.22.50:968][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31562.228516
+[2026.03.09-20.22.51:970][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.22.51:970][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31562.896484, Update Interval: 326.668304
+[2026.03.09-20.28.18:263][367]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-20.29.03:093][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31934.679688
+[2026.03.09-20.29.04:093][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.29.04:093][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31935.347656, Update Interval: 339.951172
+[2026.03.09-20.35.42:878][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32334.865234
+[2026.03.09-20.35.43:878][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.35.43:878][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32335.533203, Update Interval: 306.775116
+[2026.03.09-20.37.08:709][958]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-20.39.01:611][296]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-20.41.41:012][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32693.380859
+[2026.03.09-20.41.42:012][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.41.42:012][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32694.046875, Update Interval: 352.483276
+[2026.03.09-20.48.21:757][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33093.125000
+[2026.03.09-20.48.22:759][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.48.22:759][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33093.792969, Update Interval: 310.354919
+[2026.03.09-20.54.16:501][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33446.710938
+[2026.03.09-20.54.17:500][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-20.54.17:500][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33447.375000, Update Interval: 302.334656
+[2026.03.09-21.00.00:897][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33789.992188
+[2026.03.09-21.00.01:898][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.00.01:898][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33790.656250, Update Interval: 322.030090
+[2026.03.09-21.06.16:639][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34164.511719
+[2026.03.09-21.06.17:640][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.06.17:640][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34165.175781, Update Interval: 352.356934
+[2026.03.09-21.13.06:388][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34572.890625
+[2026.03.09-21.13.07:388][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.13.07:388][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34573.554688, Update Interval: 318.490540
+[2026.03.09-21.19.01:130][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34926.503906
+[2026.03.09-21.19.02:130][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.19.02:130][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34927.167969, Update Interval: 332.427124
+[2026.03.09-21.25.27:007][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35311.191406
+[2026.03.09-21.25.28:007][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.25.28:007][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35311.859375, Update Interval: 325.688660
+[2026.03.09-21.31.37:510][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35680.542969
+[2026.03.09-21.31.38:512][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.31.38:512][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35681.210938, Update Interval: 329.219025
+[2026.03.09-21.34.58:543][364]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 2c5...ef8
+[2026.03.09-21.34.58:543][364]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.8 RefreshExpires: 1.552e+07
+[2026.03.09-21.34.59:544][367]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2c5...ef8 Access[Expires: 2026.03.09-23.34.58 Remaining: 7200.93] Refresh[Expires: 2026-09-05T11:36:59.791Z Remaining: 15516121.79] State: Valid
+[2026.03.09-21.37.08:710][755]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-21.38.07:256][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36069.007812
+[2026.03.09-21.38.08:257][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.38.08:257][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36069.671875, Update Interval: 300.444946
+[2026.03.09-21.43.59:663][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36420.238281
+[2026.03.09-21.44.00:663][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.44.00:664][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36420.902344, Update Interval: 356.270020
+[2026.03.09-21.50.30:055][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36809.335938
+[2026.03.09-21.50.31:055][161]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.50.31:055][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36810.000000, Update Interval: 356.755280
+[2026.03.09-21.57.23:655][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37221.656250
+[2026.03.09-21.57.24:657][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-21.57.24:657][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37222.320312, Update Interval: 340.372314
+[2026.03.09-22.03.42:762][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37599.574219
+[2026.03.09-22.03.43:761][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.03.43:762][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37600.238281, Update Interval: 334.509094
+[2026.03.09-22.10.04:496][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37980.070312
+[2026.03.09-22.10.05:496][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.10.05:496][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37980.734375, Update Interval: 311.177094
+[2026.03.09-22.15.54:605][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38329.058594
+[2026.03.09-22.15.55:604][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.15.55:604][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38329.722656, Update Interval: 323.200165
+[2026.03.09-22.22.16:014][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38709.250000
+[2026.03.09-22.22.17:015][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.22.17:015][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38709.914062, Update Interval: 303.528564
+[2026.03.09-22.27.56:188][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39048.410156
+[2026.03.09-22.27.57:188][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.27.57:188][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39049.074219, Update Interval: 301.338531
+[2026.03.09-22.33.35:411][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39386.593750
+[2026.03.09-22.33.36:411][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.33.36:411][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39387.257812, Update Interval: 348.141724
+[2026.03.09-22.37.08:711][551]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-22.40.01:875][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39771.753906
+[2026.03.09-22.40.02:874][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.40.02:874][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39772.417969, Update Interval: 342.450623
+[2026.03.09-22.45.57:700][137]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-22.46.19:058][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40147.714844
+[2026.03.09-22.46.20:059][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.46.20:059][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40148.378906, Update Interval: 300.543854
+[2026.03.09-22.51.52:144][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40479.761719
+[2026.03.09-22.51.53:142][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.51.53:144][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40480.425781, Update Interval: 350.558777
+[2026.03.09-22.58.34:562][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40880.878906
+[2026.03.09-22.58.35:562][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-22.58.35:562][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40881.546875, Update Interval: 355.449707
+[2026.03.09-23.05.18:682][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41283.667969
+[2026.03.09-23.05.19:682][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-23.05.19:682][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41284.332031, Update Interval: 324.536896
+[2026.03.09-23.11.30:151][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41653.917969
+[2026.03.09-23.11.31:151][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-23.11.31:151][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41654.582031, Update Interval: 320.929596
+[2026.03.09-23.14.09:826][212]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-23.17.36:277][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42018.878906
+[2026.03.09-23.17.37:277][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-23.17.37:277][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42019.542969, Update Interval: 320.713531
+[2026.03.09-23.22.26:246][701]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.09-23.23.42:717][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42384.164062
+[2026.03.09-23.23.43:719][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-23.23.43:719][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42384.832031, Update Interval: 316.780304
+[2026.03.09-23.29.47:150][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42747.386719
+[2026.03.09-23.29.48:153][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-23.29.48:153][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42748.058594, Update Interval: 333.071686
+[2026.03.09-23.33.19:916][661]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 2c5...ef8
+[2026.03.09-23.33.19:916][661]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.59 RefreshExpires: 1.551e+07
+[2026.03.09-23.33.20:915][664]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 2c5...ef8 Access[Expires: 2026.03.10-01.33.20 Remaining: 7200.15] Refresh[Expires: 2026-09-05T11:36:59.791Z Remaining: 15509019.79] State: Valid
+[2026.03.09-23.33.47:128][743]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.03.09-23.33.47:252][743]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-23.33.47:252][743]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.09-23.33.47:584][744]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.09-23.33.47:587][744]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4bf4935-5139-4935-9fce-626f1828df05}, Name=Speakers (Bose Flex 2 SoundLink)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=23.40
+[2026.03.09-23.33.47:587][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.09-23.33.47:589][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.09-23.33.50:630][754]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.09-23.33.50:918][754]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.09-23.33.50:918][754]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.10-11.38.55:510][754]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-43501784ms], ThreadID=8612
+[2026.03.10-11.38.56:321][754]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.38.57:340][754]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.57:544][754]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [43507 Seconds] waiting for h/w. InstanceID=1
+[2026.03.10-11.38.57:862][755]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 2c5...ef8
+[2026.03.10-11.38.57:862][755]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -3.634e+04 RefreshExpires: 1.547e+07
+[2026.03.10-11.38.58:005][755]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:064][755]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:135][755]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50178'.
+[2026.03.10-11.38.58:145][755]Could not fetch the local adapter addresses
+[2026.03.10-11.38.58:145][755]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.38.58:225][755]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:289][756]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 0 (Too old connection (43560 seconds idle), disconnect it)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 2 (Closing connection)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.10-11.38.58:291][756]LogHttp: Warning: 0000054267037E00: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B12815E9B-4C39-924A-DD97-CEAC87C15381%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 0 (Too old connection (43537 seconds idle), disconnect it)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 1 (Connection 10 seems to be dead)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 2 (Closing connection)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D8400: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D0000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 0 (Found bundle for host: 0x5421b080ea0 [serially])
+[2026.03.10-11.38.58:292][756]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 2 (Closing connection)
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 0 (Found bundle for host: 0x5421b080ea0 [serially])
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 2 (Closing connection)
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B12815E9B-4C39-924A-DD97-CEAC87C15381%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.38.58:292][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A
+[2026.03.10-11.38.58:293][757]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:352][757]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:398][757]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-11.38.58:523][757]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - 27G4 (2- AMD High Definition Audio Device), InstanceID=1
+[2026.03.10-11.38.58:625][757]LogEOSSDK: Warning: LogHttp: 00000542654DA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.58:627][758]LogEOSSDK: Warning: LogHttp: 00000542654DA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.58:627][758]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.58:627][758]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.38.58:627][758]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.38.59:289][759]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.10-11.38.59:293][759]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ca4a11cc-6aac-4c7e-bd11-e4527767e827}, Name=1 - 27G4 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=69.65
+[2026.03.10-11.38.59:293][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.10-11.38.59:300][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.10-11.38.59:301][759]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.38.59:301][760]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A
+[2026.03.10-11.38.59:624][760]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 3 (Found bundle for host: 0x5421b081260 [serially])
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 5 (Closing connection)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 4 (Closing connection)
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.38.59:624][761]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A
+[2026.03.10-11.38.59:957][761]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.00:089][761]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60559'.
+[2026.03.10-11.39.00:096][761]Could not fetch the local adapter addresses
+[2026.03.10-11.39.00:096][761]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.00:288][762]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.00:289][762]LogEOSSDK: Warning: LogHttp: 00000542654DA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.00:290][762]LogEOSSDK: Warning: LogHttp: 00000542654DA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.00:290][762]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.00:290][762]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 3 (Closing connection)
+[2026.03.10-11.39.00:290][762]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.00:957][764]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.00:957][764]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 6 (Closing connection)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 6 (Found bundle for host: 0x5421b080690 [serially])
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 8 (Closing connection)
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3B76055344166F5BB31C9BAE84A4381A
+[2026.03.10-11.39.01:289][765]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.03.10-11.39.01:623][766]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.01:957][767]LogEOSSDK: Warning: LogHttp: 00000542654DA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.01:957][767]LogEOSSDK: Warning: LogHttp: 00000542654DA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.01:957][767]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.01:957][767]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 5 (Closing connection)
+[2026.03.10-11.39.01:957][767]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.02:109][767]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52912'.
+[2026.03.10-11.39.02:115][767]Could not fetch the local adapter addresses
+[2026.03.10-11.39.02:115][767]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.02:288][768]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.02:289][768]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.02:622][769]LogEOSSDK: Warning: LogHttp: 00000542654D0000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.02:622][769]LogEOSSDK: Warning: LogHttp: 00000542654D0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.02:622][769]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.02:622][769]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 8 (Closing connection)
+[2026.03.10-11.39.02:622][769]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.03:289][771]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.03:623][772]LogEOSSDK: Warning: LogHttp: 00000542654DA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.03:623][772]LogEOSSDK: Warning: LogHttp: 00000542654DA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.03:623][772]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.03:623][772]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.39.03:623][772]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.03:623][773]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogHttp: 00000542654D0000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogHttp: 00000542654D0000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogHttp: 00000542654D0000: libcurl info message cache 10 (Closing connection)
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/token
+[2026.03.10-11.39.03:956][773]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>]
+[2026.03.10-11.39.03:956][773]LogEOSSDK: LogEOSAuth: FTokenGrantRequestTask: Received ResultCode: EOS_NoConnection
+[2026.03.10-11.39.04:129][773]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53988'.
+[2026.03.10-11.39.04:135][773]Could not fetch the local adapter addresses
+[2026.03.10-11.39.04:135][773]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.04:288][774]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.04:622][775]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing refresh. Error: EOS_Auth_InvalidRefreshToken UserId: 2c5...ef8
+[2026.03.10-11.39.04:663][775]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[2c5...ef8]
+[2026.03.10-11.39.04:663][775]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogHttp: 00000542654DA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogHttp: 00000542654DA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogHttp: 00000542654DA200: libcurl info message cache 9 (Closing connection)
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.04:975][776]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogHttp: 00000542654D4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B796E39A9-4DF6-0DA1-0789-86A66D6B7AC8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogHttp: 00000542654D4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogHttp: 00000542654D4E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogHttp: 00000542654D4E00: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.39.05:623][778]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B796E39A9-4DF6-0DA1-0789-86A66D6B7AC8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.10-11.39.05:956][779]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.05:956][779]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.05:956][779]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.05:956][779]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.39.05:956][779]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.06:146][779]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50190'.
+[2026.03.10-11.39.06:152][779]Could not fetch the local adapter addresses
+[2026.03.10-11.39.06:152][779]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.06:288][780]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.07:289][783]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.07:623][784]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.07:623][784]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.07:623][784]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.07:623][784]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 3 (Closing connection)
+[2026.03.10-11.39.07:623][784]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.08:064][785]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61982'.
+[2026.03.10-11.39.08:072][785]Could not fetch the local adapter addresses
+[2026.03.10-11.39.08:072][785]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.08:288][786]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.08:956][788]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.09:289][789]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.09:289][789]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.09:289][789]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.09:289][789]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 5 (Closing connection)
+[2026.03.10-11.39.09:289][789]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.10:084][791]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65412'.
+[2026.03.10-11.39.10:089][791]Could not fetch the local adapter addresses
+[2026.03.10-11.39.10:089][791]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.10:288][792]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.10:623][793]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.10:961][794]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.10:961][794]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.10:961][794]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.10:961][794]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.39.10:961][795]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.12:100][797]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60369'.
+[2026.03.10-11.39.12:106][797]Could not fetch the local adapter addresses
+[2026.03.10-11.39.12:106][797]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.12:288][798]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.12:290][798]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.12:622][799]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.12:623][799]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.12:623][799]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.12:623][799]LogEOSSDK: Warning: LogHttp: 00000542654D6C00: libcurl info message cache 9 (Closing connection)
+[2026.03.10-11.39.12:623][799]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.12:623][799]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.03.10-11.39.13:289][801]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.10-11.39.14:117][803]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52132'.
+[2026.03.10-11.39.14:123][803]Could not fetch the local adapter addresses
+[2026.03.10-11.39.14:123][803]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.14:288][804]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.16:133][809]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62327'.
+[2026.03.10-11.39.16:138][809]Could not fetch the local adapter addresses
+[2026.03.10-11.39.16:138][809]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.16:288][810]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.16:289][810]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.16:289][810]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.16:289][810]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.16:289][810]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.39.16:289][810]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.17:291][814]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.17:624][814]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.17:624][815]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.17:624][815]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.17:624][815]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 3 (Closing connection)
+[2026.03.10-11.39.17:624][815]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.18:149][815]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58333'.
+[2026.03.10-11.39.18:156][815]Could not fetch the local adapter addresses
+[2026.03.10-11.39.18:156][815]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.18:289][816]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.18:957][818]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.19:290][819]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.19:290][819]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.19:290][819]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.19:290][819]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 5 (Closing connection)
+[2026.03.10-11.39.19:291][819]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.20:068][821]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49166'.
+[2026.03.10-11.39.20:074][821]Could not fetch the local adapter addresses
+[2026.03.10-11.39.20:074][821]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.20:289][822]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.20:624][823]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.20:957][824]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.20:957][824]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.20:957][824]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.20:957][824]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.39.20:957][824]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.22:086][827]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61444'.
+[2026.03.10-11.39.22:091][827]Could not fetch the local adapter addresses
+[2026.03.10-11.39.22:091][827]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.22:289][828]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.22:290][828]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogHttp: 00000542654DEA00: libcurl info message cache 9 (Closing connection)
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.22:624][829]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.03.10-11.39.23:290][831]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.10-11.39.24:102][833]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62425'.
+[2026.03.10-11.39.24:108][833]Could not fetch the local adapter addresses
+[2026.03.10-11.39.24:108][833]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.24:289][834]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.26:118][839]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49721'.
+[2026.03.10-11.39.26:123][839]Could not fetch the local adapter addresses
+[2026.03.10-11.39.26:123][839]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.26:289][840]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.28:134][845]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59628'.
+[2026.03.10-11.39.28:139][845]Could not fetch the local adapter addresses
+[2026.03.10-11.39.28:139][845]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.28:289][846]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.30:150][851]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50250'.
+[2026.03.10-11.39.30:154][851]Could not fetch the local adapter addresses
+[2026.03.10-11.39.30:154][851]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.30:289][852]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.30:290][852]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.30:290][852]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.30:290][852]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.30:290][852]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.39.30:290][853]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.31:625][856]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.31:959][857]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.31:959][857]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.31:959][857]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.31:959][857]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 3 (Closing connection)
+[2026.03.10-11.39.31:959][857]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.32:066][857]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63688'.
+[2026.03.10-11.39.32:071][857]Could not fetch the local adapter addresses
+[2026.03.10-11.39.32:071][857]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.32:289][858]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.33:291][861]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.33:624][862]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.33:624][862]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.33:624][862]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.33:624][862]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 5 (Closing connection)
+[2026.03.10-11.39.33:624][862]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.34:081][863]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49998'.
+[2026.03.10-11.39.34:086][863]Could not fetch the local adapter addresses
+[2026.03.10-11.39.34:086][863]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.34:289][864]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.34:624][865]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.34:957][866]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.34:957][866]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.34:957][866]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.34:957][866]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 7 (Closing connection)
+[2026.03.10-11.39.34:957][866]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.35:957][869]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.36:096][869]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51002'.
+[2026.03.10-11.39.36:102][869]Could not fetch the local adapter addresses
+[2026.03.10-11.39.36:102][869]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.36:289][870]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogHttp: 00000542654D0C00: libcurl info message cache 9 (Closing connection)
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.36:291][870]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.03.10-11.39.36:957][872]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.10-11.39.38:114][875]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62565'.
+[2026.03.10-11.39.38:120][875]Could not fetch the local adapter addresses
+[2026.03.10-11.39.38:120][875]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.38:289][876]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.40:129][881]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53883'.
+[2026.03.10-11.39.40:134][881]Could not fetch the local adapter addresses
+[2026.03.10-11.39.40:134][881]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.40:290][882]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.42:144][887]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62960'.
+[2026.03.10-11.39.42:151][887]Could not fetch the local adapter addresses
+[2026.03.10-11.39.42:151][887]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.42:290][888]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.43:958][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86543.937500
+[2026.03.10-11.39.44:162][893]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58762'.
+[2026.03.10-11.39.44:168][893]Could not fetch the local adapter addresses
+[2026.03.10-11.39.44:168][893]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.44:290][894]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.45:291][897]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.45:291][897]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.45:291][897]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.45:291][897]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: libcurl info message cache 1 (Closing connection)
+[2026.03.10-11.39.45:291][897]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.46:080][899]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61864'.
+[2026.03.10-11.39.46:086][899]Could not fetch the local adapter addresses
+[2026.03.10-11.39.46:086][899]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.10-11.39.46:290][900]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.10-11.39.46:625][901]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.46:957][902]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.10-11.39.46:958][902]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.10-11.39.46:958][902]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2026.03.10-11.39.46:958][902]LogEOSSDK: Warning: LogHttp: 00000542654D9C00: libcurl info message cache 3 (Closing connection)
+[2026.03.10-11.39.46:958][902]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.47:959][905]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.48:895][905]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50606'.
+[2026.03.10-11.39.48:899][905]LogUdpMessaging: Display: Added local interface '10.23.72.82' to multicast group '230.0.0.1:6666'
+[2026.03.10-11.39.48:912][906]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.10-11.39.50:245][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-11.39.50:245][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86549.929688, Update Interval: 320.175171
+[2026.03.10-11.42.10:337][331]LogDerivedDataCache: C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.10-11.45.51:350][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86914.132812
+[2026.03.10-11.45.52:351][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-11.45.52:351][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86914.804688, Update Interval: 310.307312
+[2026.03.10-11.51.59:087][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87284.695312
+[2026.03.10-11.52.00:087][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-11.52.00:087][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87285.367188, Update Interval: 357.242340
+[2026.03.10-11.58.51:777][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87700.585938
+[2026.03.10-11.58.52:777][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-11.58.52:777][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87701.257812, Update Interval: 344.018066
+[2026.03.10-12.05.07:789][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88079.523438
+[2026.03.10-12.05.08:790][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-12.05.08:790][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88080.195312, Update Interval: 348.886993
+[2026.03.10-12.11.32:143][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88466.851562
+[2026.03.10-12.11.33:142][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-12.11.33:142][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88467.523438, Update Interval: 349.178131
+[2026.03.10-12.18.21:513][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88879.367188
+[2026.03.10-12.18.22:515][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-12.18.22:515][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88880.039062, Update Interval: 333.430573
+[2026.03.10-12.24.41:897][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89262.671875
+[2026.03.10-12.24.42:897][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-12.24.42:897][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89263.343750, Update Interval: 326.701263
+[2026.03.10-12.30.39:948][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89623.468750
+[2026.03.10-12.30.40:948][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-12.30.40:948][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89624.140625, Update Interval: 343.097015
+[2026.03.10-12.34.06:540][678]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.06:643][678]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.10-12.34.06:643][678]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8612
+[2026.03.10-12.34.11:508][693]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:117][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:151][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:183][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:209][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:240][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:264][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2026.03.10-12.34.12:300][695]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - 27G4 (2- AMD High Definition Audio Device), InstanceID=1
+[2026.03.10-12.34.12:645][696]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.10-12.34.12:648][696]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ca4a11cc-6aac-4c7e-bd11-e4527767e827}, Name=1 - 27G4 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=182.86
+[2026.03.10-12.34.12:648][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.10-12.34.12:650][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.10-12.34.30:282][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2026.03.10-12.34.30:350][888]LogStall: Shutdown...
+[2026.03.10-12.34.30:350][888]LogStall: Shutdown complete.
+[2026.03.10-12.34.30:495][888]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:495][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:502][888]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:504][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:615][888]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:615][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:621][888]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:621][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:710][888]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:711][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:770][888]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:770][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:834][888]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.03.10-12.34.30:853][888]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.10-12.34.30:853][888]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.30:853][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.30:990][888]LogSlate: Window 'GEP_Template - Unreal Editor' being destroyed
+[2026.03.10-12.34.31:244][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.10-12.34.31:273][888]Cmd: QUIT_EDITOR
+[2026.03.10-12.34.31:273][889]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.10-12.34.31:283][889]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.10-12.34.31:283][889]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.10-12.34.31:283][889]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.10-12.34.31:286][889]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:286][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:286][889]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.03.10-12.34.31:299][889]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.10-12.34.31:302][889]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.10-12.34.31:308][889]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:308][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:311][889]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:311][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:314][889]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:314][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:318][889]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:318][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:320][889]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-12.34.31:320][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-12.34.31:327][889]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.10-12.34.31:336][889]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.10-12.34.31:336][889]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.10-12.34.31:337][889]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.10-12.34.32:305][889]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.10-12.34.32:305][889]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.10-12.34.32:305][889]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2026.03.10-12.34.32:305][889]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.10-12.34.32:305][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.10-12.34.32:307][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.10-12.34.32:313][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.10-12.34.32:313][889]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.10-12.34.32:314][889]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.10-12.34.32:337][889]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.10-12.34.32:337][889]LogExit: Preparing to exit.
+[2026.03.10-12.34.32:389][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.10-12.34.32:394][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:394][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.32:396][889]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-12.34.33:212][889]LogEditorDataStorage: Deinitializing
+[2026.03.10-12.34.33:458][889]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.10-12.34.33:505][889]LogExit: Editor shut down
+[2026.03.10-12.34.33:511][889]LogExit: Transaction tracking system shut down
+[2026.03.10-12.34.33:990][889]LogExit: Object subsystem successfully closed.
+[2026.03.10-12.34.34:018][889]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.10-12.34.34:813][889]LogMemoryProfiler: Shutdown
+[2026.03.10-12.34.34:815][889]LogNetworkingProfiler: Shutdown
+[2026.03.10-12.34.34:815][889]LoadingProfiler: Shutdown
+[2026.03.10-12.34.34:815][889]LogTimingProfiler: Shutdown
+[2026.03.10-12.34.35:288][889]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.10-12.34.35:303][889]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.10-12.34.35:303][889]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAC7902DF-499B-5453-84E0-C488B3C33629%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=28939a5246b3d527413573acfce3f17c%7C2c5df604ed994e2cadd1adc780415ef8%7C29372a8a-1901-4903-a9fc-710ceae506ea&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.10-12.34.35:877][889]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.10-12.34.35:881][889]RenderDocPlugin: plugin has been unloaded.
+[2026.03.10-12.34.35:881][889]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.10-12.34.35:881][889]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.10-12.34.35:884][889]LogXGEController: Cleaning working directory: C:/Users/Liam/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.10-12.34.35:891][889]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.10-12.34.35:891][889]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.10-12.34.35:891][889]LogPakFile: Destroying PakPlatformFile
+[2026.03.10-12.34.36:041][889]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.10-12.34.36:070][889]LogExit: Exiting.
+[2026.03.10-12.34.36:089][889]Log file closed, 03/10/26 12:34:36
