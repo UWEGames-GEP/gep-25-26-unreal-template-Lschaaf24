@@ -5602,3 +5602,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.11-10.09.12:823][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
 [2026.04.11-10.09.12:831][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
 [2026.04.11-10.09.12:919][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.04.11-10.10.45:057][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.11-10.10.45:062][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2026.04.11-10.10.45:063][326]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Menu] ([2] browsable assets)...
+[2026.04.11-10.10.45:071][326]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Menu.WB_Menu]
+[2026.04.11-10.10.45:071][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Menu]
+[2026.04.11-10.10.45:071][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Menu" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_Menu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.04.11-10.10.45:095][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_Menu_Auto4
+[2026.04.11-10.10.45:098][326]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/WB_Menu_Auto434478E7B422F96810D0449A62AEAD78B.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_Menu_Auto4.uasset'
+[2026.04.11-10.10.45:101][326]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_InventorySlot] ([2] browsable assets)...
+[2026.04.11-10.10.45:104][326]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_InventorySlot.WB_InventorySlot]
+[2026.04.11-10.10.45:104][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_InventorySlot]
+[2026.04.11-10.10.45:105][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_InventorySlot" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_InventorySlot_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.04.11-10.10.45:125][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_InventorySlot_Auto4
+[2026.04.11-10.10.45:126][326]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/WB_InventorySlot_Auto46A01D6744025738280620BB8B64EC127.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/Autosaves/Game/WB_InventorySlot_Auto4.uasset'
+[2026.04.11-10.10.45:129][326]LogFileHelpers: Auto-saving content packages took 0.066
+[2026.04.11-10.11.07:717][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.11-10.11.07:721][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.11-10.11.07:784][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.11-10.11.07:784][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.11-10.11.07:815][525]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.11-10.11.07:817][525]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_ThirdPersonCharacter5801A7F945DE889B7035EDBAE6EA7AD7.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.11-10.11.07:819][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_InventoryComponent] ([2] browsable assets)...
+[2026.04.11-10.11.07:819][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_InventoryComponent]
+[2026.04.11-10.11.07:819][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_InventoryComponent" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_InventoryComponent.uasset" SILENT=true
+[2026.04.11-10.11.07:833][525]LogSavePackage: Moving output files for package: /Game/BP_InventoryComponent
+[2026.04.11-10.11.07:834][525]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_InventoryComponentFB4DEF7547EA1BF8A8F017ABFBCDBEA0.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_InventoryComponent.uasset'
+[2026.04.11-10.11.07:837][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_Menu] ([2] browsable assets)...
+[2026.04.11-10.11.07:837][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Menu]
+[2026.04.11-10.11.07:837][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Menu" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/WB_Menu.uasset" SILENT=true
+[2026.04.11-10.11.07:859][525]LogSavePackage: Moving output files for package: /Game/WB_Menu
+[2026.04.11-10.11.07:861][525]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/WB_Menu305A6EE546119EE89576B4AB48D93C63.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/WB_Menu.uasset'
+[2026.04.11-10.11.07:863][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_InventorySlot] ([2] browsable assets)...
+[2026.04.11-10.11.07:863][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_InventorySlot]
+[2026.04.11-10.11.07:863][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_InventorySlot" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/WB_InventorySlot.uasset" SILENT=true
+[2026.04.11-10.11.07:882][525]LogSavePackage: Moving output files for package: /Game/WB_InventorySlot
+[2026.04.11-10.11.07:883][525]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/WB_InventorySlot29B92D1B4AD72B539FB52CB9F684A536.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/WB_InventorySlot.uasset'
+[2026.04.11-10.11.07:885][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Item_Sword] ([2] browsable assets)...
+[2026.04.11-10.11.07:885][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Item_Sword]
+[2026.04.11-10.11.07:885][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Item_Sword" FILE="D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_Item_Sword.uasset" SILENT=true
+[2026.04.11-10.11.07:891][525]LogSavePackage: Moving output files for package: /Game/BP_Item_Sword
+[2026.04.11-10.11.07:891][525]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Saved/BP_Item_Sword62C87B754BF8AD6634052CA8F48D07EE.tmp' to 'D:/gep-25-26-unreal-template-Lschaaf24/GEP_Template/Content/BP_Item_Sword.uasset'
+[2026.04.11-10.11.07:906][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.342 ms (total: 599.759 ms)
+[2026.04.11-10.11.07:984][525]LogContentValidation: Display: Starting to validate 5 assets
+[2026.04.11-10.11.07:984][525]LogContentValidation: Enabled validators:
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.11-10.11.07:984][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.11-10.11.07:984][525]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.11-10.11.07:984][525]AssetCheck: /Game/BP_InventoryComponent Validating asset
+[2026.04.11-10.11.07:985][525]AssetCheck: /Game/WB_Menu Validating asset
+[2026.04.11-10.11.07:985][525]AssetCheck: /Game/WB_InventorySlot Validating asset
+[2026.04.11-10.11.07:985][525]AssetCheck: /Game/BP_Item_Sword Validating asset
